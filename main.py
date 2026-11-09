@@ -1,1 +1,2 @@
-print("Hello World")git add main.py
+print("Hello World")
+print("Hello wasan")
